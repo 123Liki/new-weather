@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/new-weather/static/css/main.660806cd.css",
+    "main.js": "/new-weather/static/js/main.08990c20.js",
+    "static/media/sunset.jpg": "/new-weather/static/media/sunset.ab19eb6fc568e5c0ff4d.jpg",
+    "index.html": "/new-weather/index.html",
+    "main.660806cd.css.map": "/new-weather/static/css/main.660806cd.css.map",
+    "main.08990c20.js.map": "/new-weather/static/js/main.08990c20.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.660806cd.css",
+    "static/js/main.08990c20.js"
+  ]
+}
